@@ -33,3 +33,11 @@ Permite administrar las conexiones con repositorios remotos.
 ### git push
 
 Permite enviar los commits del repositorio local hacia el repositorio remoto en GitHub.
+
+### git log
+
+Permite consultar el historial de commits realizados en el repositorio.
+
+### git diff
+
+Permite visualizar las diferencias y cambios realizados en los archivos antes de agregarlos al área de preparación.
